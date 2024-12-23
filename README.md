@@ -2,6 +2,9 @@
 
 A sample RAG (Retrieval-Augmented Generation) application demonstrating AI-driven document interactions. This project combines OpenAI's language models with Pinecone's vector database to create a chatbot that can intelligently respond to questions about uploaded documents.
 
+### Course Information
+This project is part of the **'Build a RAG-Powered OpenAI Chatbot'** course offered by NeuroNest. You can find more information about the course at: https://app.neuronest.live/course/rag-powered-chat-application
+
 ## Architecture Overview
 
 - **Frontend**: Next.js 14, Tailwind CSS, TypeScript
